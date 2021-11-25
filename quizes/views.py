@@ -42,6 +42,8 @@ def save_quiz_view(request, pk):
         print(questions)
 
         user = request.user
+        # stuname = 
+        # mail=
         quiz = Quiz.objects.get(pk=pk)
 
         score = 0
