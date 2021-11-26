@@ -49,4 +49,9 @@ CI/CD setup
 9.	
 10.	git push [url to your repository] master/main 
 11.	Now your commit will be successfully pushed to the main branch of your GitHub repository.
+![Screenshot 2021-11-26 095247](https://user-images.githubusercontent.com/79220197/143527070-8f00a2da-f4fe-4c06-b3ed-7af8cfa304d1.png)
+![Screenshot 2021-11-26 095832](https://user-images.githubusercontent.com/79220197/143527083-6e4ee835-21ba-46e0-9554-98bc948f0ae4.png)
+![Screenshot 2021-11-26 095920](https://user-images.githubusercontent.com/79220197/143527099-7c928551-4089-4cda-9bcd-1e2f4fcb3524.png)
+![Screenshot 2021-11-26 095959](https://user-images.githubusercontent.com/79220197/143527109-53b319bc-c6eb-411b-9731-acf348ca9943.png)
+![Screenshot 2021-11-26 100030](https://user-images.githubusercontent.com/79220197/143527114-aac86fdd-d6d7-4b13-9826-54e3985536e6.png)
 
