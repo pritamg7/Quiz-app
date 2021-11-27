@@ -18,6 +18,10 @@ from django.urls import path, include
 from django.conf import settings
 from django.conf.urls.static import static
 
+admin.site.site_header = "Welcome Admin"
+admin.site.site_title = "Admin Portal"
+admin.site.index_title = "This is only for Admin"
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('quizes.urls', namespace='quizes')),
