@@ -1,7 +1,11 @@
 This is an online Multiple choice question Assessment platform made by Pritam Ghosh and Rohan Raj as the final project of Walkover University Program. The project is made over Python as backend, sqllite3 as the database, and HTML, CSS, JS, Boostrap as frontend.
+
 A deployed version of this project can be checked by using this link  https://quiz-app-123.herokuapp.com/
-*YOU CAN CHECK DEMO VIDEO ON THIS LINK https://drive.google.com/file/d/1AV4cJc_AmZH-l_9fmsIV_jF3GHXnEH6_/view?usp=sharing
-*Wireframe is availabe on this link https://balsamiq.cloud/slvpeex/p53o1ft/r9219
+
+
+YOU CAN CHECK DEMO VIDEO ON THIS LINK https://drive.google.com/file/d/1AV4cJc_AmZH-l_9fmsIV_jF3GHXnEH6_/view?usp=sharing
+
+Wireframe is availabe on this link https://balsamiq.cloud/slvpeex/p53o1ft/r9219
 
 We have worked on following key points:
 1.	Assessment shall be MCQ pattern.
