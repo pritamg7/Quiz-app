@@ -1,5 +1,7 @@
 This is an online Multiple choice question Assessment platform made by Pritam Ghosh and Rohan Raj as the final project of Walkover University Program. The project is made over Python as backend, sqllite3 as the database, and HTML, CSS, JS, Boostrap as frontend.
 A deployed version of this project can be checked by using this link  https://quiz-app-123.herokuapp.com/
+YOU CAN CHECK DEMO VIDEO ON THIS LINK https://drive.google.com/file/d/1AV4cJc_AmZH-l_9fmsIV_jF3GHXnEH6_/view?usp=sharing
+Wireframe is availabe on this link https://balsamiq.cloud/slvpeex/p53o1ft/r9219
 
 We have worked on following key points:
 1.	Assessment shall be MCQ pattern.
@@ -31,12 +33,11 @@ The application is hosted in virtual environment.
 Project Setup:
 1.	Clone this repository in your local system.
 2.	git clone 
-3.	
-4.	Pre-installed Django is required.
-5.	Open the cloned repository in Vs Code.
-6.	Migrate using command python manage.py migrate 
-7.	Now just RUN the Project.
-8.	If everything is done in order then this will open the website in your local machine.
+3.	Pre-installed Django is required.
+4.	Open the cloned repository in Vs Code.
+5.	Migrate using command python manage.py migrate 
+6.	Now just RUN the Project.
+7.	If everything is done in order then this will open the website in your local machine.
 CI/CD setup
 1.	Create a GitHub repository. You may initialize it with a README, license, .gitignore
 2.	Install git via terminal
@@ -45,18 +46,16 @@ CI/CD setup
 4.	Add all the changes you want.
 5.	Then execute these commands:
 6.	git add . 
-7.	
-8.	git commit -m "[mandatory commit message]" 
-9.	
-10.	git push [url to your repository] master/main 
-11.	Now your commit will be successfully pushed to the master branch of your GitHub repository.
-12.	for deployment on Heroku
-13.	you can simply open the website of heroku
-14.	connecyt your github account and give access to heroku
-15.	Select the repository 
-16.	then click on automatic deployment and then manually deploy for first time 
-17.	then it will show you a log that all the requred file and dependencies are installed automatically and deployed successfully.
-18.	Now click on view at bottom or you can simply click on open app option on top header.
+7.git commit -m "[mandatory commit message]" 
+8.git push [url to your repository] master/main 
+9.Now your commit will be successfully pushed to the master branch of your GitHub repository.
+10.for deployment on Heroku
+11.You can simply open the website of heroku
+12.Connect your github account and give access to heroku
+13.Select the repository 
+14.Then click on automatic deployment and then manually deploy for first time 
+15.Then it will show you a log that all the requred file and dependencies are installed automatically and deployed successfully.
+16.Now click on view at bottom or you can simply click on open app option on top header.
 ![Screenshot 2021-11-26 095247](https://user-images.githubusercontent.com/79220197/143527070-8f00a2da-f4fe-4c06-b3ed-7af8cfa304d1.png)
 ![Screenshot 2021-11-26 095832](https://user-images.githubusercontent.com/79220197/143527083-6e4ee835-21ba-46e0-9554-98bc948f0ae4.png)
 ![Screenshot 2021-11-26 095920](https://user-images.githubusercontent.com/79220197/143527099-7c928551-4089-4cda-9bcd-1e2f4fcb3524.png)
