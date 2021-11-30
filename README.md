@@ -5,18 +5,18 @@ We have worked on following key points:
 1.	Assessment shall be MCQ pattern.
 2.	Admin Can login using username and password.
 3.	There must be a question pool for the assessment.
-We have created a pool of  questions in database and randomly selected questions in shuffled order.
-4.	The questions displayed in the assessment shall be only from that pool.
-5.	Number of questions in the pool shall be more than questions displayed.✔️
-6.	Set a time limit for the assessment .
-7.	Question order shall be shuffled for each candidate appearing.✔️
-8.	Assessment score shall be generated at the time of submission.✔️
-Additional Features
+4. We have created a pool of  questions in database and randomly selected questions in shuffled order.
+5. The questions displayed in the assessment shall be only from that pool.
+6.	Number of questions in the pool shall be more than questions displayed.✔️
+7.	Set a time limit for the assessment .
+8.	Question order shall be shuffled for each candidate appearing.✔️
+9.	Assessment score shall be generated at the time of submission.✔️
+   Additional Features
 1.	Great UI.
 2.	Completely responsive for all devices.
 3.	Login page for storing user's data and validation of the data of users attempting for assessment.
 4.	Result is displayed .
-Developers
+  Developers
 1.	Pritam Ghosh 
 2.	Rohan Raj
 •	Frontend + Deployment : Rohan Raj
@@ -34,7 +34,7 @@ Project Setup:
 3.	
 4.	Pre-installed Django is required.
 5.	Open the cloned repository in Vs Code.
-6.	Integrate the .jar files available inside the cloned directory in your project.
+6.	Migrate using command python manage.py migrate 
 7.	Now just RUN the Project.
 8.	If everything is done in order then this will open the website in your local machine.
 CI/CD setup
@@ -49,7 +49,14 @@ CI/CD setup
 8.	git commit -m "[mandatory commit message]" 
 9.	
 10.	git push [url to your repository] master/main 
-11.	Now your commit will be successfully pushed to the main branch of your GitHub repository.
+11.	Now your commit will be successfully pushed to the master branch of your GitHub repository.
+12.	for deployment on Heroku
+13.	you can simply open the website of heroku
+14.	connecyt your github account and give access to heroku
+15.	Select the repository 
+16.	then click on automatic deployment and then manually deploy for first time 
+17.	then it will show you a log that all the requred file and dependencies are installed automatically and deployed successfully.
+18.	Now click on view at bottom or you can simply click on open app option on top header.
 ![Screenshot 2021-11-26 095247](https://user-images.githubusercontent.com/79220197/143527070-8f00a2da-f4fe-4c06-b3ed-7af8cfa304d1.png)
 ![Screenshot 2021-11-26 095832](https://user-images.githubusercontent.com/79220197/143527083-6e4ee835-21ba-46e0-9554-98bc948f0ae4.png)
 ![Screenshot 2021-11-26 095920](https://user-images.githubusercontent.com/79220197/143527099-7c928551-4089-4cda-9bcd-1e2f4fcb3524.png)
